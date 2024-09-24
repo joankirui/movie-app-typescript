@@ -1,4 +1,5 @@
-
+npm i --save-dev typescript
+npx tsc --init
 npx create-snowpack-app . --template @snowpack/app-template-blank-typescript 
 # New Project
 
